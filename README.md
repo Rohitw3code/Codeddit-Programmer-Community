@@ -3,7 +3,7 @@ Codeddit is a Community of a progarmmer here you can ask any question related pr
 
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/RBmXGmJcBFnCqbgTYk2SykCq4m3ntXuHvbK-aB36Bd6FRtm3oL_AxmGYoMiUXmRd-QY=s180-rw" width="350" title="hover text">
+  <img src="https://firebasestorage.googleapis.com/v0/b/codeddit.appspot.com/o/PROFILE_IMAGE%2Fcodeddit.png?alt=media&token=af037d58-66f1-47e4-bb44-9c01694abfac" width="350" title="hover text">
 </p>
 
 Join The Codeddit Community
