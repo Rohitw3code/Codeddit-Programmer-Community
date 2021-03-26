@@ -7,7 +7,7 @@ Codeddit is a Community of a progarmmer here you can ask any question related pr
    
 </p>
 
-<p align="left" width="100%">
+<p align="center" width="100%">
   <img src="https://play-lh.googleusercontent.com/L02blDspUGOLiKJVDIyCKMHyJVkvJ5H3LnBVsWD8WSzpvqEPLbdEJwaJuGKoYjNXQuw=w1920-h969-rw" width="25%" title="Groups">
   <img src="https://play-lh.googleusercontent.com/jtJB5drXzVxko9H5kPEPz1VtTp3SGisW5_jN6qcOE3PsTRjC5CoMX_1wlqOq81_GnEz2=w1920-h969-rw" width="25%" title="Home">
   <img src="https://play-lh.googleusercontent.com/XMpSrAgOGS4alVBwt0u9TtZTaDpjrBEzq6qXYAJENybSaZyYX9mhjGdhSSIs-W7BPac=w1920-h969-rw" width="25%" title="Challenge">
