@@ -1,6 +1,8 @@
 # Codeddit-Programmer-Community
 Codeddit is a Community of a progarmmer here you can ask any question related progarmming , data scinece , app development etc
 
+<h1>Join The Codeddit Community</h1>
+https://play.google.com/store/apps/details?id=com.codedditapp.codeddit&hl=en_US&gl=US
 
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/codeddit.appspot.com/o/PROFILE_IMAGE%2Fcodeddit.png?alt=media&token=af037d58-66f1-47e4-bb44-9c01694abfac" width="350" title="Codeddit">
@@ -14,5 +16,3 @@ Codeddit is a Community of a progarmmer here you can ask any question related pr
   <img src="https://play-lh.googleusercontent.com/48oCmd-U1WaW01XJiOHwlkKOS5OaY436f35KWsxDx4SC0m6hGp6QH_0r2RA0Jo8eT5s=w1920-h969-rw" width="20%" title="Profile">
 </p>
 
-Join The Codeddit Community
-https://play.google.com/store/apps/details?id=com.codedditapp.codeddit&hl=en_US&gl=US
